@@ -1,0 +1,18 @@
+Varshith
+Headache,Leg injury
+
+Manideep,Aryan
+21
+
+Manideep
+Flu,Cold
+
+Varshith
+22
+
+Aryan
+Typhoid,Fever
+
+Manideep
+19
+
